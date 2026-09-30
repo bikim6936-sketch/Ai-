@@ -1,0 +1,10 @@
+{
+  "name": "Remix Baby - AI Voice Assistant",
+  "description": "A cute, friendly AI voice assistant named Baby that speaks naturally in Hindi, Hinglish, and English.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
